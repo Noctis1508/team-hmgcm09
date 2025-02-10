@@ -1,1 +1,2 @@
-# hola-mundo-gcm09
+# team-hmgcm09
+Primer repositorio hola-mundo para realizar pruebas.
